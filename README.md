@@ -1,4 +1,4 @@
-**Hi, I'm Vlad Z.**
+**Hi, I'm Vlad**
 
 Right now I’m working at Resy(AMEX) as a Senior Software Engineer, building mobile games at the spare time and trying to learn how to play chess.
 
